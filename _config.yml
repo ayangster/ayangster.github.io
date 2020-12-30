@@ -4,9 +4,9 @@
 # Site settings
 title: Annie Yang
 description: |
-  Duke University Student\\
-  Washington Native\\
-  Los Angeles Bound
+  Human Bean\\
+  Software Engineer\\
+  Writer
 owner: Annie Yang # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
 email: annie.s.yang16@gmail.com
@@ -16,11 +16,11 @@ social:
   # twitter: https://twitter.com/<username>
   github: https://github.com/ayangster
   linkedin-square: https://linkedin.com/in/annie-yang-1b458269
-  facebook-official: https://facebook.com/annie.bananie.yang
+  # facebook-official: https://facebook.com/annie.bananie.yang
   # google-plus-square: https://plus.google.com/u/0/+<username>
   email: annie.s.yang16@gmail.com
   #flickr:
-  #instagram:
+  instagram: https://www.instagram.com/ayangster12/
   #youtube-square:
   #spotify:
   #stack-overflow:
